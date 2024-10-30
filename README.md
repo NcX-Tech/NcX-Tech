@@ -20,5 +20,4 @@
     <img align= 'center' alt="" src="">
     <img align= 'center' alt="" src="">
     <img align= 'center' alt="" src="">
-</div><br/>
-Meu email para contato: brenno.commercial@gmail.com
+</div>
