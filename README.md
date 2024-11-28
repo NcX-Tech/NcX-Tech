@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5MBTQFxqwK)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/souza.bm)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55081998139704)
+[![PORTFÓLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ncx-tech.github.io/Portfolio-NcX/)
 
 ![NcX GitHub stats](https://github-readme-stats.vercel.app/api?username=NcX-Tech&show_icons=true&theme=dracula)
 
