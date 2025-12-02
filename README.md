@@ -6,7 +6,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55081998139704)
 [![PORTFÓLIO](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-63u45nvrx-ncx-techs-projects.vercel.app/)
 
-![NcX GitHub stats](https://github-readme-stats.vercel.app/api?username=NcX-Tech&show_icons=true&theme=dracula)
 
 ### 🖥️ Tecnologias que eu utilizo no meu dia a dia:
 
